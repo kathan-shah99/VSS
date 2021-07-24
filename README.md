@@ -1,2 +1,2 @@
 # Collison_avoidance_system
-Resoruces &amp; Implementation of ADC-CAS project repo
+Resoruces &amp; Implementation of ACC-CAS project repo
